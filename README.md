@@ -4,8 +4,6 @@
 🇧🇷 Brazilian <br>
 <img align="" src="./github/pokeball.png" width="16" height="16">
 Pokémon Master <br>
-🛠 Working with React and Node<br>
-📖 Currently learning Python
 
 
 ### My VS Code Extensions
